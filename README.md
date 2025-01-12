@@ -1,12 +1,14 @@
 ## Hey Everyone 👋
 
 I'm Kevin Pham!
-* Data Science @ University of California, Berkeley
+* _previously: Data Science @ University of California, Berkeley_
+* _currently: Looking for a full time position or internship in Data Science_
 
+I'm currently learning more about linear algebra and machine learning. I'm diving deeper into these topics to satisfy my curiosity and improve my skillset. 
 
 ## About Kevin:
 
-I'm a UC Berkeley Alumni living in Oakland, CA. During my spare time, I enjoy hanging out with friends and going out to eat. 
+I'm a UC Berkeley Alumni living in Oakland, CA. During my spare time, I enjoy hanging out with friends and going out to eat. If you would like to reach out, contact me through my email at phamkevin654@gmail.com.
 
 <!--
 **kevpham123/kevpham123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
