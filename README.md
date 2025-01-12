@@ -1,12 +1,11 @@
-## Hey 👋
----
+## Hey Everyone 👋
 
 I'm Kevin Pham!
 * Data Science @ University of California, Berkeley
 
 
 ## About Kevin:
----
+
 I'm a UC Berkeley Alumni living in Oakland, CA. During my spare time, I enjoy hanging out with friends and going out to eat. 
 
 <!--
