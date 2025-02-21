@@ -1,4 +1,4 @@
-## Hey Everyone 👋
+## Hello World 👋
 
 I'm Kevin Pham!
 * _previously: Data Science @ University of California, Berkeley_
